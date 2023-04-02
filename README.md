@@ -1,4 +1,4 @@
-# Youtube Clone Application 📷🎦
+# Video-Sharing-Application 📷🎦
 
 ## you can check this repository by clicking here<a href="https://coruscating-scone-bf8b06.netlify.app"> - Link</a>
 
